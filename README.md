@@ -1,6 +1,6 @@
 # telewave
-Inspired by work on automated PPT
+Inspired by gjeuken
 
-[Access it here](https://gjeuken.github.io/telewave/)
+[Access it here](https://echoblaze.github.io/telewave/)
 
 [Instructions here](instructions.md)
