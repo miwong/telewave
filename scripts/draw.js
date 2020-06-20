@@ -17,17 +17,17 @@ function position(x){
 function draw(x){
 		posx = position(x)
 		ctx.beginPath();
-		ctx.fillStyle = "#d3961f";
+		ctx.fillStyle = "#2dc937";
 		ctx.fillRect(posx-recW3/2, 0, recW3, 150);
 		ctx.stroke();
 
 		ctx.beginPath();
-		ctx.fillStyle = "#a4cea3";
+		ctx.fillStyle = "#e7b416";
 		ctx.fillRect(posx-recW2/2, 0, recW2, 150);
 		ctx.stroke();
 
 		ctx.beginPath();
-		ctx.fillStyle = "#dd5d3e";
+		ctx.fillStyle = "#cc3232";
 		ctx.fillRect(posx-recW/2, 0, recW, 150);
 		ctx.stroke();
 
